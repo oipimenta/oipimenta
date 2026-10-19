@@ -50,6 +50,22 @@ Projeto acadêmico do **grupo GP3L**, desenvolvido no **Challenge Oracle + FIAP*
 
 🔗 **[Explorar o HUBSUS360](https://github.com/Ladeira26/HUBSUS360)**
 
+
+
+### 🛰️ PAYNE | Launch Intelligence Platform
+
+Projeto desenvolvido para a **Global Solution 2026 da FIAP**, com foco em inteligência climática e espacial aplicada à análise de riscos em lançamentos.
+
+A plataforma integra dados da **NASA e NOAA** para avaliar condições de clima espacial e apoiar decisões por meio do **Launch Window Score**, que classifica cenários em GO, HOLD ou REVIEW.
+
+**Tecnologias:** Python, FastAPI, React, JavaScript, integração de APIs e análise de dados.
+
+**Minha participação:** integrante da equipe de desenvolvimento, contribuindo para a construção e evolução da solução.
+
+🔗 **[Explorar projeto no GitHub](https://github.com/tsukishikawa/payne)**
+
+🌐 **[Acessar demonstração da PAYNE](https://tsukishikawa.github.io/payne)**
+
 ---
 
 ## 📚 O que estou estudando
