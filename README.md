@@ -40,7 +40,7 @@ Estudo **Python, SQL, modelagem de bancos de dados, análise exploratória de da
 
 ## 🚀 Projeto em destaque
 
-### [HUBSUS360 | Dados para a saúde pública]
+### HUBSUS360 | Dados para a saúde pública
 
 Projeto acadêmico do **grupo GP3L**, desenvolvido no **Challenge Oracle + FIAP**, que integra bases públicas do SUS para apoiar análises de internações hospitalares e indicadores de saúde.
 
