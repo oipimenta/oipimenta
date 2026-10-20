@@ -52,7 +52,7 @@ Projeto acadêmico do **grupo GP3L**, desenvolvido no **Challenge Oracle + FIAP*
 
 
 
-### 🛰️ PAYNE | Launch Intelligence Platform
+### PAYNE | Launch Intelligence Platform
 
 Projeto desenvolvido para a **Global Solution 2026 da FIAP**, com foco em inteligência climática e espacial aplicada à análise de riscos em lançamentos.
 
